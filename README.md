@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/merna-s-saad.png" width="120" style="border-radius:50%" />
+<a href="https://github.com/merna-s-saad">
+  <img src="https://github.com/merna-s-saad.png" width="120" style="border-radius:50%" />
+</a>
 
 # 👋 This account has moved
 
