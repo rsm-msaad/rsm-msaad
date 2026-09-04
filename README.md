@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 This account has moved
 
-<!--
-**rsm-msaad/rsm-msaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm now at **[@merna-s-saad](https://github.com/merna-s-saad)**.
 
-Here are some ideas to get you started:
+All my repositories, projects, and activity live there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Find me
+- **GitHub:** [github.com/merna-s-saad](https://github.com/merna-s-saad)
+- **Website:** [merna.org](https://merna.org)
+- **LinkedIn:** [in/merna-s-saad](https://linkedin.com/in/merna-s-saad)
+
+---
+
+*Merna Saad · Data Scientist · AI Engineer · San Diego, CA*
