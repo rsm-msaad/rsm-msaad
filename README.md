@@ -4,19 +4,19 @@
   <img src="https://github.com/merna-s-saad.png" width="120" style="border-radius:50%" />
 </a>
 
-# 👋 This account has moved
+#  This account has moved
 
-### I'm now at **[@merna-s-saad](https://github.com/merna-s-saad)**
+All my repositories, projects, and activity now live here:
 
-All my repositories, projects, and activity live there.
+<a href="https://github.com/merna-s-saad">
+  <img src="https://img.shields.io/badge/@merna--s--saad-181717?style=for-the-badge&logo=github&logoColor=white" height="55" />
+</a>
 
-<br>
+<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-merna--s--saad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merna-s-saad)
-[![Website](https://img.shields.io/badge/MERNA.ORG-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://merna.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/merna-s-saad)
-
-<br>
+[![Website](https://img.shields.io/badge/MERNA.ORG-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://merna.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/merna-s-saad)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:merna.sa.saad@gmail.COM)
 
 ---
 
